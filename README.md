@@ -23,7 +23,7 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://recordit.co/JDkiVDU5jd' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://recordit.co/2v7Duvr1bh.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 # Twitter - Part II
@@ -50,4 +50,4 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://g.recordit.co/ZPXCzWEy73.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://recordit.co/2v7Duvr1bh.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
